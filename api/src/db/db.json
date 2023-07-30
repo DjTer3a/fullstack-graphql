@@ -3,5 +3,185 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "type": "CAT",
+      "name": "mufasa",
+      "createdAt": "675677567"
+    },
+    {
+      "id": "3",
+      "type": "CAT",
+      "name": "ASDASD",
+      "createdAt": "675677567"
+    },
+    {
+      "id": "2",
+      "type": "DOG",
+      "name": "BUBA",
+      "createdAt": "675677567"
+    },
+    {
+      "id": "hDX2JYhcbWMk_t1VZVX-n",
+      "createdAt": 1690661956489,
+      "name": "batman",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "J3R0ISEnkiwECg1q1xGub",
+      "createdAt": 1690661968992,
+      "name": "batman",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "kW2DYSuk5pbsjjsxSrsoJ",
+      "createdAt": 1690662678580,
+      "name": "banman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "83YiociXzi0y4P8YKNQMx",
+      "createdAt": 1690662683877,
+      "name": "asd",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_kPD6HPW4EaidyU_1LDaQ",
+      "createdAt": 1690669733094,
+      "name": "based",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "KpK4dbRIf9w4xbH0_Y_QY",
+      "createdAt": 1690669778463,
+      "name": "frontend buster",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "N0yWoUuMWAhYxUTr-PuGK",
+      "createdAt": 1690669950479,
+      "name": "boobs",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "ytpizf5vKU7_tALgvKvKe",
+      "createdAt": 1690669978174,
+      "name": "bobs",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "k3T2PaL7pap9QJej5cyep",
+      "createdAt": 1690669987144,
+      "name": "dobs",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "e_IiWkCgE9Vwz1aElgq_c",
+      "createdAt": 1690670111328,
+      "name": "bashdiashdsafsdgdfgsfdg",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lZGz8xpSwdH4lFv22ZyCx",
+      "createdAt": 1690670136034,
+      "name": "meow",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "8aW64DfUJmQwdPdfuIAwm",
+      "createdAt": 1690685635476,
+      "name": "loading",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "HpAqByc1E96YLVMdXyyGc",
+      "createdAt": 1690685646728,
+      "name": "baseded",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "gwKbT0mLFrQQKpx3dRdDk",
+      "createdAt": 1690692729209,
+      "name": "asdwffadfsdfdsf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "xj51kccyrUR7ATLwPlLSi",
+      "createdAt": 1690692745107,
+      "name": "asfagwsdgsd",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "6TBg8FxUdKY9RPmHcNNI_",
+      "createdAt": 1690692754340,
+      "name": "sdfafsdf",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "fUA7AGPR3IioE90yRDB9e",
+      "createdAt": 1690692761117,
+      "name": "sdfasdfasdfdfa",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2IWRpiE3X7C5NcQEyDJ2H",
+      "createdAt": 1690692829234,
+      "name": "asdasdasdssdger5t3qcrq",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "FZ3jaPQ1qLAFK0hEGtXUz",
+      "createdAt": 1690692859978,
+      "name": "wretc234r34c543254",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "mE0D7fpEeJOd2vvE-IGlM",
+      "createdAt": 1690693000726,
+      "name": "23432421353245143",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "rzWR8XfJ2JakAoc16AarE",
+      "createdAt": 1690726753834,
+      "name": "bobby",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_GQLmhTeFrX3D7GmOkKyW",
+      "createdAt": 1690726763670,
+      "name": "bobsy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "kqh78ZmqlR00Kdnx46rbN",
+      "createdAt": 1690727309161,
+      "name": "igyfuyghluio9876959778",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
